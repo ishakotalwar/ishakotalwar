@@ -33,9 +33,9 @@ I'm a Computer Science student at UC Irvine interested in **software engineering
 
 ### Featured Projects
 
-* **Full Court** — NBA/WNBA analytics platform with 16K+ player-seasons and 1.36M shot locations
-* **EcoScape** — AI-powered sustainable garden design app, 1st Place at IrvineHacks
-* **Moodify** — AI-powered music recommendation app, 1st Place at UCI AWS CloudHacks
+- [**Full Court**](https://full-court-six.vercel.app/) — NBA/WNBA analytics platform with 16K+ player-seasons and 1.36M shot locations
+- **EcoScape** — AI-powered sustainable garden design app, 1st Place at IrvineHacks
+- **Moodify** — AI-powered music recommendation app, 1st Place at UCI AWS CloudHacks
 
 ### Connect
 
